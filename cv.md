@@ -3,7 +3,7 @@
 ***
 ##### Contacts:
 * e-mail: zbkcdc@gmail.com
-* github: https://github.com/nicerep
+* git: [github.com/nicerep](https://github.com/nicerep)
 ##### About me:
 * Amazed by the possibilities of the modern world
 * My goal is.. become front-end developer
